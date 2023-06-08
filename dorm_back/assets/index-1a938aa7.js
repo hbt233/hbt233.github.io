@@ -1,1 +1,0 @@
-import{h as t}from"./http-10d204f8.js";const c=o=>t("dorm/getNotFullDorms",o),r=o=>t("dorm/getDorms",o),m=o=>t("dorm/checkIn",o,"POST"),s=o=>t("dorm/checkOut",o,"POST"),n={getNotFullDorms:c,getDorms:r,checkIn:m,checkOut:s};export{n as d};

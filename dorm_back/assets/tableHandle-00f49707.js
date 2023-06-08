@@ -1,1 +1,0 @@
-import{e as o}from"./index-136834c8.js";function p(n,t){const r={...t},a=o(10),c=o(1),s=o(0),l=e=>{a.value=e,n()},u=e=>{c.value=e,n()};function i(){Object.keys(t).forEach(e=>{t[e]=r[e]}),n()}return{pageSize:a,pageNum:c,total:s,handleCurrentChange:u,handleSizeChange:l,reset:i}}export{p as t};
